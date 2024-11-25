@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677526150801",
+    "project_id": "cw8-machinlearning",
+    "storage_bucket": "cw8-machinlearning.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677526150801:android:2ce495c1fa3b5f78bca930",
+        "android_client_info": {
+          "package_name": "com.example.cw8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL_X89684oddLaRJsI1fWnbcIxpRefdVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
